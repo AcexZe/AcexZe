@@ -1,8 +1,5 @@
 这里是 AcexZe AcexZe AcexZe
 
-QQ：615756914
-邮箱：acexze@163.com
-
 也不知道会在GitHub上丢些什么东西，
 反正应该大概是会丢的，
 像一些CTF题目的WP哇、
