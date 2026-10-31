@@ -6,3 +6,15 @@ http://1.117.63.169:8000/
 www.bing.com
 www.baidu.com
 https://www.taobao.com/
+https://www.lovei.org/upload.html
+https://www.lovei.org/js.svg
+https://www.lovei.org/ppoc.html
+https://bacde.me/
+https://novysodope.github.io/links/Android.html
+https://emudhra.we-have-a-problem.com/
+http://lovei.org/termux.apk
+file://../../../../../../../etc/hosts
+file://../../../../../../../etc/hosts
+file://../../../../../../../system/etc/hosts
+file://../../../../../../../system/etc/hosts
+file:///etc/hosts
